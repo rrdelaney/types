@@ -1,0 +1,5 @@
+{
+  "name": "koa-bodyparser",
+  "main": "index.d.ts",
+  "version": "^3.1.0"
+}
