@@ -1,0 +1,6 @@
+{
+  "name": "rethinkdb",
+  "main": "index.d.ts",
+  "homepage": "https://github.com/rrdelaney/types",
+  "version": "^2.3.2"
+}
